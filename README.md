@@ -13,7 +13,7 @@ CodeToUML is a tool designed to generate UML (Unified Modeling Language) diagram
 
 Follow these steps to get started with CodeToUML:
 
-1. Clone the repository: `git clone https://github.com/DuncanBrady/codeToUml.git`
+1. Clone the repository: `git clone https://github.com/DuncanBrady/codeToUML.git`
 2. [Installation steps if any]
 3. [Usage instructions]
 
